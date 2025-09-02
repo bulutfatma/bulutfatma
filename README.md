@@ -6,7 +6,7 @@ Kod yazmayı, oyun mekanikleri kurmayı ve sürekli kendimi geliştirmeyi çok s
 
 ## 🛠️ Kullandığım Teknolojiler & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,github,git,ps,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=unity,github,git,ps,vscode" alt="tech stack" />
 </p>
 
 ## 🚀 Şu an neler yapıyorum?
